@@ -100,14 +100,11 @@ To run this project, you will need to add the following environment variables to
 - Remove Lectures:
 ![Screenshot (317)](https://github.com/AyushGodbole/LMS_Ayush/assets/122848080/76cab0d3-bec7-4009-987d-5e64ff562bd4)
 
-- Subscription page:
-![Screenshot (318)](https://github.com/AyushGodbole/LMS_Ayush/assets/122848080/f212e849-dee5-493d-80a4-59efd96c416f)
-
 - About Section:
 ![Screenshot (319)](https://github.com/AyushGodbole/LMS_Ayush/assets/122848080/5ccacdf6-4565-4478-a81f-d6db6084b1af)
 
 - Feedback Section:
-![Screenshot (311)](https://github.com/AyushGodbole/LMS_Ayush/assets/122848080/2a85b9e7-40fd-42c5-b117-0a552dda9e2c)
+![Screenshot (318)](https://github.com/AyushGodbole/LMS_Ayush/assets/122848080/d89dd96a-7b4a-4a19-b2d0-f8b19a723bde)
 
 ## Tools and Languages:
 
