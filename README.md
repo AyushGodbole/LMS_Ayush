@@ -4,6 +4,10 @@ This application revolutionizes online education by offering a comprehensive Lea
 
 ### Live : https://dummy-frontend-one.vercel.app/
 
+### Demo Credentials :
+- Email : ishan@gmail.com
+- Pass  : ishan@12345
+
 
 
 ## Getting Started
